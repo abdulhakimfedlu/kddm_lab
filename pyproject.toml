@@ -1,0 +1,13 @@
+[project]
+name = "kddm-lab"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "duckdb>=1.5.6",
+    "ipykernel>=7.4.0",
+    "jupyterlab>=4.6.4",
+    "pandas>=3.0.6",
+    "pyarrow>=26.0.0",
+]
