@@ -66,7 +66,7 @@ kddm_lab_assignment/
 
 2. **Create and activate virtual environment:**
    ```bash
-   # Using uv (recommended)
+   # Using uv 
    uv venv
    .venv\Scripts\activate  # Windows
    
